@@ -1,0 +1,19 @@
+body {
+  background-color: #CDF0EA;
+  margin: 1px;
+  text-align: center;
+}
+
+
+.top-container {
+position: relative; left: 300px;
+}
+
+.middle-container {
+position: relative; right:200px; top: 50px;
+}
+
+.bottom-container {
+position: relative; left: 10px; top: 250px;
+
+}

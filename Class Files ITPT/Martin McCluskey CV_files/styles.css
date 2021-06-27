@@ -1,0 +1,49 @@
+body {
+  background-color: azure;
+
+}
+h1 {
+  color: #495f85;
+
+}
+
+h2 {
+  color: #495f85;
+  }
+
+  h3 {
+    color: #495f85;
+  }
+
+body {
+color: #495f85
+}
+
+
+textarea {
+
+  resize: vertical;
+  max-height:200px;
+}
+
+table {
+  background-color: linen;
+  padding: 5px;
+}
+
+.t1{
+  position: relative; left: 150px;
+}
+
+.t2{
+  position: relative; left:600px; bottom: 17px;
+}
+
+
+.t3{
+  position: relative; left:1000px; bottom: 33px;
+}
+
+hr{
+  border: dotted 1px; margin-left: 500px; margin-right: 500px;
+}
